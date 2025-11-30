@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "bajan@fotonk.hu",
+                "Name": "Bajan"
+            }
+        ],
+        "Description": "This is a kde plasma theme made for peopel who like Miku",
+        "Id": "Miku theme",
+        "License": "LGPL 2.1+",
+        "Name": "Miku theme",
+        "Website": "placeholder_text"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}
